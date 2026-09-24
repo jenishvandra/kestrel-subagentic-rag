@@ -1,0 +1,57 @@
+id,question,key_points_hit,key_points_total,citations_found,time_seconds,status,answer
+1,"How many earned leaves do I get a year, and how many can I carry forward?",3,3,0,19.38,ok,"Based on company policy, your earned leave entitlements and carry-forward rules are as follows:
+
+* **Entitlement:** You receive 18 days of earned leave per calendar year, which accrues at the rate of 1.5 days per month [KSPL-HR-POL-004 v4.1, section 3.1]. 
+* **Carry Forward:** Unused earned leave can be carried forward up to a maximum balance of 30 days [KSPL-HR-POL-004 v4.1, section 3.1]."
+2,My VPN keeps disconnecting. What should I do?,3,5,0,15.22,ok,"If your VPN keeps disconnecting, you should complete these self-help steps in order:
+
+1. **Step 1:** Update Kestrel Secure Connect to the latest version from Software Centre [KSPL-IT-POL-002 v2.3, section 5.3].
+2. **Step 2:** Switch to a different network, or restart your home router [KSPL-IT-POL-002 v2.3, section 5.3].
+3. **Step 3:** Reset the VPN profile from Settings > Reset profile, then sign in again [KSPL-IT-POL-002 v2.3, section 5.3].
+
+If the problem continues, raise a P3 ticket and attach the log file by going to Help > Export logs [KSPL-IT-POL-002 v2.3, section 5.3]."
+3,What is my daily meal limit on a business trip?,0,2,0,16.46,ok,The provided policy documents do not contain information about the daily meal limit on a business trip.
+4,How long do I have to submit an expense claim?,2,2,0,17.83,ok,"You must submit your expense claims on the finance portal within 30 days of the trip end date or expense date [KSPL-FIN-POL-003 v3.0, section 2.1]. Please note that claims submitted more than 60 days after the trip end date or expense date will be rejected [KSPL-FIN-POL-003 v3.0, section 2.2]."
+5,What is my hotel limit per night in Nashik?,3,3,0,28.51,ok,"Nashik is classified as a non-metro city (as metro cities are limited to Mumbai, Delhi NCR, Bengaluru, Chennai, Hyderabad, Kolkata, and Pune) [KSPL-FIN-POL-003 v3.0, section 4.1]. 
+
+Your hotel limit per night in Nashik depends on your employee grade, calculated as 75% of the metro limit for your grade [KSPL-FIN-POL-003 v3.0, section 4.1]:
+* **G1 to G3:** INR 3,000 per night (75% of INR 4,000) [KSPL-FIN-POL-003 v3.0, section 4.1]
+* **G4 to G5:** INR 4,875 per night (75% of INR 6,500) [KSPL-FIN-POL-003 v3.0, section 4.1]
+* **G6 to G7:** INR 7,500 per night (75% of INR 10,000) [KSPL-FIN-POL-003 v3.0, section 4.1]"
+6,I lost my laptop at the airport. What now?,0,4,0,12.62,ok,"Based on company policy regarding lost or stolen devices, employees are responsible for carrying company laptops in cabin baggage when flying [KSPL-IT-POL-002 v2.3, section 6.1]. 
+
+Additionally, if the loss is considered to be caused by negligence—such as leaving the device unattended in a public place—the employee is required to pay 25% of the device's current book value [KSPL-IT-POL-002 v2.3, section 7.3]."
+7,Can I paste customer data into ChatGPT to summarise it?,3,4,0,11.73,ok,"Yes, you can use ChatGPT to summarize customer data, but only under specific conditions:
+
+* Customer data is classified as Confidential at minimum [KSPL-IT-POL-002 v2.3, section 9.1].
+* You must use the company ChatGPT Enterprise workspace (which is an approved AI tool), as only approved AI tools may be used with Confidential data [KSPL-IT-POL-002 v2.3, section 9.3].
+* You must never enter Confidential data into public or free AI tools [KSPL-IT-POL-002 v2.3, section 9.3]."
+8,"I join next Monday. What documents do I bring, and when do I get my laptop?",1,4,0,16.92,ok,"Based on the company policies provided:
+
+* **Laptop:** You will receive your standard company laptop on your first working day, provided HR has submitted the request at least 5 working days before your joining date [KSPL-IT-POL-002 v2.3, section 2.1; KSPL-HR-POL-004 v4.1, section 5.2].
+* **Documents:** The provided policies do not contain information regarding what documents you need to bring on your first day."
+9,Can I work from Goa for 3 weeks?,2,5,0,17.61,ok,"Yes, you can work from Goa (another city in India) for up to 20 working days per calendar year [KSPL-HR-POL-004 v4.1, section 2.3]. 
+
+Since 3 weeks typically amounts to 15 working days, this falls within the 20-day limit, but you must meet the following requirements:
+* Obtain approval from your reporting manager [KSPL-HR-POL-004 v4.1, section 2.3].
+* Submit your request on the HR portal at least 5 working days in advance [KSPL-HR-POL-004 v4.1, section 2.3]."
+10,I want to work from Dubai for 2 weeks. Is that allowed?,1,4,0,16.76,ok,"Yes, working from outside India (such as Dubai) is allowed, but it is limited to 15 working days per calendar year and requires written approval from both your HR Business Partner and IT Security [KSPL-HR-POL-004 v4.1, Section 2.4]. Additionally, you must connect to company systems only through the company VPN while working away from the office [KSPL-HR-POL-004 v4.1, Section 2.5]."
+11,"I'm resigning. What happens with notice, my laptop and final settlement?",3,7,0,17.62,ok,"Based on Kestrel Systems' company policies, here is what happens regarding your notice period, laptop, and final settlement:
+
+* **Notice Period:** After confirmation, notice periods depend on your grade: G1 to G3 is 30 days, G4 to G5 is 60 days, and G6 to G7 is 90 days. If you are on probation, the notice period is 15 days for any grade [KSPL-HR-POL-004 v4.1, section 6.1]. Additionally, with manager approval, you may buy out the unserved notice period by paying your basic salary for the unserved days, or the company may choose to waive the notice [KSPL-HR-POL-004 v4.1, section 6.2].
+* **Laptop (Exit Clearance):** You must return your laptop, access card, and all other company assets on your last working day [KSPL-HR-POL-004 v4.1, section 6.3]. 
+* **Final Settlement:** Your full and final settlement will be processed within 45 days of your last working day [KSPL-FIN-POL-003 v3.0, section 8.1]."
+12,I'm moving from Pune to the Mumbai office next month. What do I get and what must I do?,2,10,0,20.75,ok,"Based on company policy regarding your move between offices, here is what you get and what you must do:
+
+**What you get:**
+* **Relocation Allowance:** You will receive a one-time relocation allowance paid with your first salary at the new location (taxable as per law). The amount depends on your grade: INR 40,000 for G1 to G3; INR 75,000 for G4 to G5; or INR 1,25,000 for G6 to G7 [KSPL-FIN-POL-003 v3.0, section 6.2].
+* **Household Goods Shifting:** Shifting of household goods is reimbursed up to INR 60,000 based on three quotations from company-approved movers (the lowest quotation will be reimbursed) [KSPL-FIN-POL-003 v3.0, section 6.5].
+
+**What you must do:**
+* **IT Peripherals:** Peripherals are not moved between offices. You must request your peripherals at the new office by raising a ticket in the ""Desk Setup"" category at least 10 working days before your first day at the new location [KSPL-IT-POL-002 v2.3, section 6.2]."
+13,I relocated 8 months ago and now I'm resigning. Do I repay anything?,1,4,0,20.42,ok,"Yes, because you are resigning within 12 months of your relocation date, you are required to repay a portion of the relocation allowance in proportion to the unserved months of the 12-month period [KSPL-FIN-POL-003 v3.0, section 6.6; KSPL-HR-POL-004 v4.1, section 4.6]. 
+
+Since you relocated 8 months ago, you have 4 unserved months remaining (12 minus 8), meaning you will need to repay 4/12 of the allowance [KSPL-FIN-POL-003 v3.0, section 6.6]."
+14,How many nights of temporary accommodation do I get when relocating?,1,4,0,26.42,ok,"When relocating, you receive up to 10 nights of temporary accommodation at your grade hotel limit [KSPL-FIN-POL-003 v3.0, section 6.4]. Please note that this limit replaces any earlier temporary accommodation limit stated in other company policies, effective July 1, 2026 [KSPL-FIN-POL-003 v3.0, section 6.4]."
+15,What is the policy on sabbatical leave?,1,3,0,23.67,ok,"The provided company policy documents do not contain any information regarding sabbatical leave. Therefore, this topic is not covered in the current policies [KSPL-HR-POL-004 v4.1]."
+16,What is Kestrel's share price today?,0,3,0,10.49,ok,"The provided company policy documents do not contain information about Kestrel's share price today. Therefore, this topic is not covered in the retrieved clauses."
